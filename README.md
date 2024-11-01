@@ -1,14 +1,15 @@
 # Harrison Getches 👋
 
-Hi there, I'm Harrison. A dedicated and ambitious individual with a passion for technology, finance, and computer science. I'm currently pursuing a Bachelor of Science in Business Administration with an emphasis on Finance and Computer Science from the University of Colorado Boulder. When I'm not studying, I love working on diverse tech projects and exploring new domains.
+Hi there, I'm Harrison. A dedicated and ambitious individual with a passion for technology, finance, and computer science. I'm currently pursuing a Bachelor of Science in Quantitative Finance and Computer Science with a Minor in Mathematics from the University of Colorado Boulder. When I'm not studying, I love working on diverse tech projects and exploring new domains.
 
 🌐 Check out my portfolio: [harri.icu](https://harri.icu)
 
 ## 📚 Education
 
 🎓 **University of Colorado Boulder – Leeds School of Business**  
-Bachelor of Science in Business Administration (Expected May 2026)  
-Emphasis in Finance and Computer Science  
+Bachelor of Science in Quantitative Finance & Computer Science (Expected May 2026)  
+Minor in Mathematics
+Founding member of Artemis Consulting
 _Member of the Leeds Honors Program & Dean's List_  
 _Cumulative GPA and Business GPA: 4.0_  
 
