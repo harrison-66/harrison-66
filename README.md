@@ -35,4 +35,3 @@ Trained a robust machine learning model using TensorFlow for object detection on
 - **Email:** [harrison.getches@colorado.edu](mailto:harrison.getches@colorado.edu)
 - **Phone:** (303) 419-8806
 - **LinkedIn:** [linkedin.com/in/harrison-getches](https://linkedin.com/in/harrison-getches)
-- **GitHub:** [github.com/harrison-66](https://github.com/harrison-66)
