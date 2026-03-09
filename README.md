@@ -15,9 +15,11 @@ _In Major GPA: 4.0_
 ## Some Projects
 
 **SnapSell**
+
 🏆 HackCU12: An end-to-end agentic workflow aimed at making second-hand selling as easy as snapping a photo. Deep intergrations with eBay API for posting and managing listings, as well as a suite of agents with tools to research various markets and build composite appraisals for items. Check out our pitch deck [here](https://github.com/hackcu12-snapsell/SnapSell/blob/main/SnapSell_Pitch_v3.pdf)
 
 **PantryPal**
+
 🏆 HackCU11: Fighting food waste via a pantry manager, enabled by AI to help monitor expiration dates of your groceries, suggesting meal plans that utilize food before it goes bad.
 
  **Crownest**  
