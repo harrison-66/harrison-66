@@ -6,9 +6,10 @@ Hi there, I'm Harrison I'm currently pursuing a Bachelor of Science in Quantitat
 ## Education
 
 🎓 **University of Colorado Boulder – Leeds School of Business**  
-Bachelor of Science in Quantitative Finance & Computer Science (Expected May 2026)  
+Bachelor of Science in Quantitative Finance & Computer Science (Expected May 2026)
 Minor in Mathematics
 Founding member & President of Artemis Consulting
+
 _Member of the Leeds Honors Program & Dean's List_  
 _In Major GPA: 4.0_  
 
